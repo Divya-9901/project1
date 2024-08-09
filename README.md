@@ -1,4 +1,4 @@
-# project1
+# projects
 web-page
 <br>
 Author-Divya 
